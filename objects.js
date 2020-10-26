@@ -1,3 +1,3 @@
 var playlist = {
-  popSmoke: 'Diana'
+  'Pop Smoke': 'Diana'
 }
